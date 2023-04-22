@@ -12,6 +12,10 @@
 *  In conclusion, an IoT-based smart bulb provides an innovative lighting solution that offers convenience, energy efficiency, and customization options. It is a            significant step towards a more connected and intelligent home or office.
 
 
+#Circuit daigram
+![Screenshot (42)](https://user-images.githubusercontent.com/131495415/233768949-27c97023-4352-4878-bf7c-72a9e04752e9.png)
+
+
 
 # Equipments used 
 * IR sensor

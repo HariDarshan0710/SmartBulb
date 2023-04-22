@@ -24,7 +24,7 @@
 * Bulb
 * Capacitor
 * BC 547 transistor
-* Holder
+* Holder,Remote
 * Battery 9v
 
 
